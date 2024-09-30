@@ -19,6 +19,7 @@ module.exports = {
   plugins: ['jest'],
   rules: {
     'consistent-return': 'off',
+    'space-before-function-paren': 'off',
     'max-classes-per-file': 'off',
     'no-underscore-dangle': 'off',
     'no-console': 'off',
